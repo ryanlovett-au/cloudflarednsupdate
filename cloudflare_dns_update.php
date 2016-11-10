@@ -1,4 +1,4 @@
-<?
+<?php
 
 /* 
  * Clouflare API DNS update script
